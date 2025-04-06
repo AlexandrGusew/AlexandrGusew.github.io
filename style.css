@@ -1,0 +1,103 @@
+.msg {
+    position: absolute; 
+    width: 25px;  
+    height: 25px;
+    top: 20px; 
+    right: 20px; 
+    color: rgb(255, 255, 255);
+    
+}
+.msg li{
+    list-style-type: none;
+    
+}
+.msg img {
+    width: 25px;  
+    height: 25px;
+
+}
+.msg :hover{
+    box-shadow: 0 0 25px #4CAF50; 
+     transform: scale(1.05)
+}
+
+h2 {
+    color: rgb(255, 255, 255); 
+    
+}
+
+.name {
+   text-align: center;
+   padding-top: -10px;
+    
+    
+    
+}
+
+body {
+    background-image: url(Image/Img1.jfif);
+    color: rgb(255, 255, 255)
+
+}
+
+.menu {
+    color: rgb(255, 255, 255);
+}
+
+.photo {
+    padding-left: 20px;
+    padding-top: 20px;
+    width: 140px;
+
+}
+.photo img {
+    width: 140px;
+}
+h1 {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.button {
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    
+    gap: 30px;
+    margin-top: 50px;
+        
+       
+}
+.button button
+ {
+    height: 50px;
+    width: 150px;
+    background-color: transparent;
+    color: rgb(255, 255, 255);
+    font-size: 18px; 
+    border: none; 
+    cursor: pointer;
+    border-radius: 10px;
+            
+}
+.button button a {
+text-decoration: none;
+color: rgb(255, 255, 255);
+background-color: transparent;
+display: block;
+
+}
+.button :hover{
+    box-shadow: 0 0 25px #4CAF50; 
+     transform: scale(1.05)
+}
+h3 {
+font-family:serif;
+font-size: 20px;
+
+}
+footer {
+    text-align: center;
+    font-family:fantasy;
+    
+}git clone https://github.com/AlexandrGusew/AlexandrGusew.github.io
